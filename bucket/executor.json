@@ -1,17 +1,17 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.2",
     "description": "Multipurpose launcher and more advanced and customizable freeware Windows run replacement and more",
     "homepage": "https://executor.dk/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://www.1space.dk/executor/Executor64bit.zip",
-            "hash": "89e396d99033995aeabfa94a07ee8fd327843ff06d60becf2f8f798d952ad213",
+            "hash": "4124f83d2724ed805c2eba2b06649dbcf9b729eda025000fe0daf5826dba9b88",
             "extract_dir": "Executor64bit"
         },
         "32bit": {
             "url": "https://www.1space.dk/executor/Executor32bit.zip",
-            "hash": "f87d62404fa95e043584d1c14bc23741d1da1e50bebe01331317ce5240de370f",
+            "hash": "fdaaa31b3ebeac39f9503014e99495e8e4b7e547b7a29ce659dfa28317cb732e",
             "extract_dir": "Executor32bit"
         }
     },
