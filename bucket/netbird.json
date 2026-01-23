@@ -1,16 +1,16 @@
 {
-    "version": "0.64.0",
+    "version": "0.64.1",
     "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
     "homepage": "https://netbird.io/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/netbirdio/netbird/releases/download/v0.64.0/netbird_0.64.0_windows_amd64_signed.tar.gz",
-            "hash": "b7f5b9e9913d5fa657265043422774c5b3f69d17a1ea7c127c6f3a8bd8c455a6"
+            "url": "https://github.com/netbirdio/netbird/releases/download/v0.64.1/netbird_0.64.1_windows_amd64_signed.tar.gz",
+            "hash": "cc9c9c738cfc2ab6e23f65bda34962927554a72dc4a218dfe1b875cc88fc528b"
         },
         "arm64": {
-            "url": "https://github.com/netbirdio/netbird/releases/download/v0.64.0/netbird_0.64.0_windows_arm64_signed.tar.gz",
-            "hash": "e17607a9192495019633c21a6c021f61b4b29a79dcc0a259d5e0e508e06389ca"
+            "url": "https://github.com/netbirdio/netbird/releases/download/v0.64.1/netbird_0.64.1_windows_arm64_signed.tar.gz",
+            "hash": "808f26131d7fc101b39853e8d2cf73a63b82b21d397d8427dbbb5df17c35de56"
         }
     },
     "bin": "netbird.exe",
